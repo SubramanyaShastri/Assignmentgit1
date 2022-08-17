@@ -2,3 +2,5 @@ Cloud-Data engineering
 Devops engineer
 Data engineer
 Automation testing
+Git,docker,go,
+java,.net,fullstack
